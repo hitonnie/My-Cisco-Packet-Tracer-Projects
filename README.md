@@ -13,3 +13,15 @@ Tested connectivity between devices and verified successful communication across
 <UL></UL>
 <p><h4>A VLAN project:</h4>This is a overview of this vlan project consists of a first floor with a salaes department a guest wifi, the second floor with a marketing department with another sales department and the third floor which is a server room for the sales and marketing department</p>
 <img width="977" height="655" alt="Screenshot 2026-02-03 104708" src="https://github.com/user-attachments/assets/592bcdb2-dc9f-414c-bc44-131b1e168f57" />
+<p></p>
+<p>Designed and implemented a three-floor enterprise network using Cisco Packet Tracer.
+Created separate VLANs for Marketing, Sales, and Guest departments to improve network segmentation and security.
+Configured VLAN assignments on switches based on departmental requirements.
+Implemented trunk links between switches and the router to carry multiple VLANs across the network.
+Configured Router-on-a-Stick inter-VLAN routing using router subinterfaces and IEEE 802.1Q encapsulation.
+Assigned IP addressing schemes for each VLAN and configured default gateways.
+Tested communication within VLANs and verified controlled inter-VLAN connectivity.
+Applied access control measures to limit Guest network access to internal resources.
+Performed network troubleshooting to resolve VLAN, trunking, and routing issues.
+Documented network topology, VLAN configurations, IP addressing plans, and routing settings.
+Demonstrated practical knowledge of VLAN management, network security, and inter-VLAN routing concepts using Cisco technologies.</p>
